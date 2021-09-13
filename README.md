@@ -9,17 +9,20 @@ An API for a social network web application where users can share their thoughts
 The following animations demonstrate the application functionality:
 
 `get-routes-all-users`
-(https://user-images.githubusercontent.com/82549162/133133597-2a811ad2-7783-4d63-bedd-906df2e526be.gif)
+
+![18-nosql-homework-demo-01](https://user-images.githubusercontent.com/82549162/133138227-af224689-f945-4a62-a43d-98cc68b62af6.gif)
 
 `get-routes`
-(https://user-images.githubusercontent.com/82549162/133133809-00164e93-5af3-44b4-a9f4-61835db48d8e.gif)
+
+![18-nosql-homework-demo-02](https://user-images.githubusercontent.com/82549162/133138320-2f817d1a-2db7-482e-b324-dab743a0d155.gif)
 
 `post-delete-routes`
-(https://user-images.githubusercontent.com/82549162/133133845-30d4edc6-e7c2-4018-90ee-f350d73c3f1c.gif)
+
+![18-nosql-homework-demo-03](https://user-images.githubusercontent.com/82549162/133138362-0de19e2f-fc43-4316-88c9-1116d64290f9.gif)
 
 `post-put-delete-routes`
-(https://user-images.githubusercontent.com/82549162/133133927-47bc178c-253f-4c62-b318-9d3958a1c5e8.gif)
 
+![18-nosql-homework-demo-04](https://user-images.githubusercontent.com/82549162/133138408-d854d553-164d-430c-97d4-704321406ae3.gif)
 
 ## Built With
 *HTML *JS
