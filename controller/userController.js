@@ -30,6 +30,18 @@ const userController = {
         User.findByIdAndUpdate(req.params.id, {$set:req.body})
         .then(user => res.json(user))
         .catch(err => res.status(500).json(err));
-    }
+    },
+
+    addFriend(req,res) {
+        User.findByIdAndUpdate(req.params.id, {$push: { friends: params.friendId}})
+        .then(user => res.json(user))
+        .catch(err => res.status(500).json(err));
+    },
+
+    deleteFriend(req,res) {
+        User.findByIdAndDelete(req.params.id)
+        .then(user => res.json(user))
+        .catch(err => res.status(500).json(err));
+    },
 }
 module.exports = userController;
